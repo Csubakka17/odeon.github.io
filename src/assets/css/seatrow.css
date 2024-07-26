@@ -1,0 +1,44 @@
+.seat-rows {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.seat-row {
+  display: flex;
+  justify-content: center;
+  margin: 0.2rem 0 0;
+}
+
+.seat {
+  width: 20px;
+  height: 20px;
+  margin: 0.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.seat.available {
+  background-color: green;
+  color: white;
+}
+
+.seat.occupied {
+  background-color: red;
+  color: white;
+}
+
+.seat.marked {
+  background-color: hsl(38, 96%, 54%);
+  color: black;
+}
+
+.seat.unavailable {
+  background-color: grey;
+  color: white;
+  cursor: not-allowed; /* Nem foglalható állapot esetén nincs pointer mutató */
+}

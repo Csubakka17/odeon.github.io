@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "img": "/media/img/cabaret.jpg",
+        "title": "CABARET musical",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+        
+        },
+    
+    {
+        "id": 1,
+        "img": "/media/img/abigel.jpg",
+        "title": "Abigél",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+        
+        },
+
+    {
+        "id": 2,
+        "img": "/media/img/dzsungel_konyve.jpg",        
+        "title": "A Dzsungel könyve musical",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+        
+        },
+
+    {
+        "id": 3,
+        "img": "/media/img/Aladdin.jpg", 
+        "title": "ALADDIN musical",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+        
+        }     
+    
+]

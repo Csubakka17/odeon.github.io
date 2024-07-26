@@ -1,0 +1,15 @@
+.jegy-content{
+    display: flex;
+    flex-direction: row;    
+}
+.jegy-content img {
+    width: 400px;
+    height: 300px;
+}
+.alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px;
+    border: 1px solid #f5c6cb;
+    margin-bottom: 20px;
+  }

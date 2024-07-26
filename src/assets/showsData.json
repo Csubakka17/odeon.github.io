@@ -1,0 +1,97 @@
+[        
+    {
+        "id": 0,
+        "showId": 0,
+        "img": "/media/img/abigel.jpg",
+        "title": "2024/2025 évadunk",
+        "date": "2024-09-02T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+                
+        },
+
+    {
+        "id": 1,
+        "showId": 1,
+        "img": "/media/img/dzsungel_konyve.jpg",        
+        "title": "A Dzsungel könyve musical",
+        "date": "2024-09-03T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla.Lorem ipsum dolor"
+               
+        },
+        {
+        "id": 2,
+        "showId": 2,
+        "img": "/media/img/cabaret.jpg",
+        "title": "CABARET musical",
+        "date": "2024-09-01T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+        
+        },
+
+    {
+        "id": 3,
+        "showId": 3,
+        "img": "/media/img/Aladdin.jpg", 
+        "title": "ALADDIN musical",
+        "date": "2024-09-04T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+                
+        },
+        {
+        "id": 4,
+        "showId": 4,
+        "img": "/media/img/dzsungel_konyve.jpg",        
+        "title": "A Dzsungel könyve musical",
+        "date": "2024-09-05T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla.Lorem ipsum dolor"
+                   
+    },    
+    {
+        "id": 5,
+        "showId": 5,
+        "img": "/media/img/abigel.jpg",
+        "title": "Abigél",
+        "date": "2024-10-02T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+                
+        },
+
+    {
+        "id": 6,
+        "showId": 6,
+        "img": "/media/img/dzsungel_konyve.jpg",        
+        "title": "A Dzsungel könyve musical",
+        "date": "2024-10-03T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla.Lorem ipsum dolor"
+               
+        },
+
+    {
+        "id": 7,
+        "showId": 7,
+        "img": "/media/img/Aladdin.jpg", 
+        "title": "ALADDIN musical",
+        "date": "2024-10-04T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+                
+        },
+        {
+        "id": 8,
+        "showId": 8,
+        "img": "/media/img/abigel.jpg",
+        "title": "Abigél",
+        "date": "2024-10-05T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla."
+                
+        },
+
+    {
+        "id": 9,
+        "showId": 9,
+        "img": "/media/img/dzsungel_konyve.jpg",        
+        "title": "A Dzsungel könyve musical",
+        "date": "2024-11-03T19:00",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quas modi beatae aspernatur. Quidem rerum beatae adipisci deleniti. Minus ut cupiditate suscipit deleniti, facere iste quod fugiat! Dolorem quia, a voluptate qui recusandae explicabo cum laborum tempore molestiae cupiditate! Nulla.Lorem ipsum dolor"
+                
+        }
+]

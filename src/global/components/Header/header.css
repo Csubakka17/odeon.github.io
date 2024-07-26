@@ -1,0 +1,33 @@
+.bs-bg-opacity-30 {
+    --bs-bg-opacity: .3;
+}
+
+.button-bar{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+}   
+
+.image-link  img{
+    transition: transform 0.3s ease;
+}
+.image-link img:hover {
+    transform: scale(1.1);
+}
+.nav-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; 
+     
+}
+.nav-menu-btn .cart-link {
+    
+    align-items: center;
+    font-size: 1.3rem; /* Az ikon méretének beállítása */
+    margin-left: 1rem; /* Távolság a Fiókom linktől */
+    text-decoration: none; /* Eltávolítja az aláhúzást */
+    color: white; /* Fehér szín az ikonhoz */
+  }
+  

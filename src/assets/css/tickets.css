@@ -1,0 +1,20 @@
+.jegy-content{
+    display: flex;
+    flex-direction: row;    
+}
+.jegy-content img {
+    width: 400px;
+    height: 300px;
+}
+/*
+.zoom-controls {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .zoom-controls button {
+    margin-bottom: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 16px;
+  }
+  */

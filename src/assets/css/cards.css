@@ -1,0 +1,22 @@
+.card {
+    height: 100%;
+}
+.card-img-top{
+    height: 196px;
+}
+.card-title {
+    flex-grow: 1;
+}
+
+.play-tiles .card-body {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+.play-tiles .card-body p {
+    flex-grow: 1;
+   
+}
+.card-body {
+align-items: center;
+}

@@ -1,0 +1,25 @@
+.about {
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+}
+.about img {
+    height: 580px;
+    width: 600px;
+}
+.about-text{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    margin-left: 1rem;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: large;
+}
+.about-text img{
+    height: 60px;
+    width: 150px;
+}

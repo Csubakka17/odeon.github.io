@@ -1,0 +1,85 @@
+.account-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 1rem;
+}
+
+.login-form, .register-form {
+  width: 100%;
+  max-width: 400px; /* Maximális szélesség */
+  padding: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input-row {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 0.5rem 0;
+}
+
+.input-row label {
+  flex-basis: 30%; /* Fix szélesség a label számára */
+  margin-right: 1rem;
+  text-align: right;
+}
+
+.input-row input {
+  flex-basis: 70%; /* Fix szélesség az input mező számára */
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.password-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 0.5rem 0;
+}
+
+.password-container label {
+  flex-basis: 30%; /* Fix szélesség a label számára */
+  margin-right: 1rem;
+  text-align: right;
+}
+
+.password-container input {
+  flex-basis: 70%; /* Fix szélesség az input mező számára */
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.password-container span {
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+
+.remember-me {
+  display: flex;
+  align-items: center;
+  margin: 0.5rem 0;
+}
+
+.remember-me input {
+  margin-right: 0.5rem;
+}
+
+.register-form input {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 0.5rem 0;
+}

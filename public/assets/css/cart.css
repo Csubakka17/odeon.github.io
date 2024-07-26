@@ -1,0 +1,24 @@
+.cart {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+  }
+  
+  .cart h2 {
+    margin-top: 0;
+  }
+  
+  .cart ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cart li {
+    margin: 5px 0;
+  }
+  
+  .cart button {
+    margin-top: 20px;
+  }
+  

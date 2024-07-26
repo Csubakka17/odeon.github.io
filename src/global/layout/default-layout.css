@@ -1,0 +1,25 @@
+
+:root {
+    --bs-primary: rgb(255, 255, 255);
+    --bs-primary-rgb: 255, 255, 255;
+
+    
+}
+
+.btn-primary {
+    --bs-btn-bg: rgb(0, 72, 53);
+    --bs-btn-border-color: hsl(100, 13%, 95%);
+
+    --bs-btn-hover-bg: hsl(38, 96%, 54%);
+    --bs-btn-active-bg: hsl(164, 100%, 21%);
+    --bs-btn-hover-color: hsl(224, 100%, 53%);
+
+    --bs-btn-color: rgb(255, 255, 255);
+}
+
+.default-layout {
+    display: grid;
+    grid-template-rows: min-content auto min-content;
+    gap: 1rem;
+    min-height: 100vh;
+}

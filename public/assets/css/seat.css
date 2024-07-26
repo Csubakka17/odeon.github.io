@@ -1,0 +1,24 @@
+.seat {
+    width: 30px;
+    height: 30px;
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .seat.free {
+    background-color: green;
+  }
+  
+  .seat.reserved {
+    background-color: red;
+  
+  }
+  
+  .seat.assigned {
+    background-color: yellow;
+  }
+  

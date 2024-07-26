@@ -1,0 +1,26 @@
+export const SliderData = [
+    {
+      image:
+        '../media/img/1.jpg'
+    },
+    {
+        image:
+          '../media/img/2.jpg'
+      },
+      {
+        image:
+          '../media/img/3.jpg'
+      },
+      {
+        image:
+          '../media/img/4.jpg'
+      },
+      {
+        image:
+          '../media/img/5.jpg'
+      },
+      {
+        image:
+          '../media/img/6.jpg'
+      }
+  ];
